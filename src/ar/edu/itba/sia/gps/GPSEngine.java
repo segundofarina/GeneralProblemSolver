@@ -1,4 +1,4 @@
-package gps;
+package ar.edu.itba.sia.gps;
 
 import java.util.ArrayList;
 import java.util.Collection;

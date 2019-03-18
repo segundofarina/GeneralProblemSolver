@@ -1,4 +1,4 @@
-package gps;
+package ar.edu.itba.sia.gps;
 
 import gps.api.Rule;
 import gps.api.State;
